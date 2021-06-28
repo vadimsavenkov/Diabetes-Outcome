@@ -1,1 +1,1 @@
-# Diabetes Outcome Perdiction with Classifiers
+## Diabetes outcome prediction using classifiers
